@@ -1,4 +1,4 @@
-# Curso Angular Desde Cero - Aulas 1 a 8
+# Curso Angular Desde Cero - Aulas 9 a 12
 ## Bluuweb (Ignácio Gutierrez)
 
 ### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=mog8EKQX5HI&list=PLPl81lqbj-4JaLibWSbTVrYTyHDadppKq)
